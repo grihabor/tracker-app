@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="instruction">Click the button\nto start tracking</string>
+    <string name="start">START</string>
+</resources>
